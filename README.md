@@ -1,4 +1,4 @@
-<p style="font-size: 32px"><b><ins>GRIGORII TROKHININ</ins></b></p> 
+<p style="font-size: 52px"><b><ins>GRIGORII TROKHININ</ins></b></p> 
 
 <p style="font-size: 22px">Frontend Developer, <b>8+ years</b> of experience<p>
 
