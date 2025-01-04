@@ -2,8 +2,8 @@
 
 > Frontend Developer, 8+ years of experience
 
-| +49 (155) 142- 4521 | g.trokhinin@gmail.com | [LinkedIn](https://www.linkedin.com/in/gtrokhinin/)  | GMT+3  |
-| ----------- | ----------- |---|---|
+| g.trokhinin@gmail.com | [LinkedIn](https://www.linkedin.com/in/gtrokhinin/) | +49 (155) 142-4521 | GMT+3 |
+|-|-|-|-|
 
 ---
 
