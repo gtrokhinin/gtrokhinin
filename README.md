@@ -9,15 +9,15 @@
 
 ## ABOUT
 
-Frontend developer with over **8 years** of experience, worked using Agile methodology in teams from 2 to 10 members, both
-remotely and in the office, and operating as a Team Lead for 2+ years now. I have experience in page load speed optimization,
-splitting the monolithic app into micro frontend apps, CI/CD configuration, and building projects' architecture and
-infrastructure from scratch. Expert in JavaScript, React, and TypeScript programming, passionate about going under their
-hood and solving algorithmic challenges on LeetCode.  
-In addition to tech knowledge, I easily communicate with clients while figuring out precise product requirements, managing
-my team’s tasks and performance, always sharing my insights, and listening to others to help us grow. My hobbies are
-learning fundamental computer science components such as system design patterns, mentoring junior colleagues, and
-checking out new techs and updates in the front-end industry.
+Frontend developer with over **8 years** of experience, worked in Agile teams from 2 to 10 members, both remotely and in
+the office, and operating as a Team Lead for 2+ years now. I have experience in page load speed optimization, splitting the
+monolithic app into micro frontend apps, CI/CD configuration, and building projects' architecture and infrastructure from
+scratch. Expert in React, TypeScript, and JavaScript programming, passionate about going under their hood and solving
+algorithmic challenges on LeetCode.
+In addition to tech knowledge, I easily communicate with clients while figuring out precise product requirements,
+managing my team’s tasks and performance, always sharing my insights, and listening to others to help us grow. My
+hobbies are learning fundamental computer science components such as system design patterns, mentoring junior
+colleagues, and checking out new techs and updates in the front-end industry.
 
 ---
 
