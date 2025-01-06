@@ -23,29 +23,27 @@ checking out new techs and updates in the front-end industry.
 
 ## SKILLS
 
-React, TypeScript, JavaScript, Redux Toolkit, Redux Thunk, Redux Saga, Zustand, MobX, Webpack, Vite, Axios, TanStack Query,
-GraphQL, Apollo, Jest, React Hook Form, Zod, i18next, Tailwind, styled-components, Husky, React Router, WebSocket, CSS,
-SCSS, HTML, Lighthouse, Git, Figma, ESLint, Prettier, Sentry.
+React, TypeScript, JavaScript, Redux Toolkit, MobX, Zustand, TanStack Query, Redux Saga, Redux Thunk, Webpack, Vite, Axios, GraphQL, Apollo, Jest, Cypress, React Hook Form, Zod, Ant Design, Tailwind, styled-components, i18next, Husky, React Router, SOLID, ESLint, Prettier, WebSocket, HTML, CSS, SCSS, Lighthouse, Figma, Git, CI/CD, SEO, Accessibility.
 
 ---
 
 ## EXPERIENCE
 
-> ### WILDBERRIES: 11/2022 – PRESENT, 2+ YEARS
+> ### [KASPI](https://kaspi.kz/): 11/2022 – PRESENT, 2+ YEARS
 
 - Managing **7 developers** (5 frontends and 2 backends) on **2 projects** (pick-points owner's account and pick-points
   admin's panel)
 - Gathered team, implemented FSD architecture, configured linters, CI/CD, JWT authentication, module federation, and
-  other things **from scratch** , and released MVP **1 month earlier** than expected (2 months instead of 3)
-- Decompose, assign, and estimate tasks, conduct semi-annual tech debt planning and backlog prioritization for my
-  teams, and participate in **tight communication** with analysts.
+  other things **from scratch**
 - Developed real-time support chat using WebSocket, reducing hotline appeals for our products by **34%** within 3
   months
+- Decompose, assign, and estimate tasks, conduct semi-annual tech debt planning and backlog prioritization for my
+  teams, and participate in **tight communication** with analysts.
 - Interviewed **50+** people on the Senior Frontend Developer position
 
 #### Technologies: React, TypeScript, Zustand, TanStack Query, Vite, Axios, Jest, React Hook Form, Zod, i18next, Tailwind
 
-> ### GAZPROMBANK: 09/2021 – 11/2022, 1.2 YEARS
+> ### [HALYK BANK](https://halykbank.kz/): 09/2021 – 11/2022, 1.2 YEARS
 
 - Developed feature of credit rate reduction in multiple apps increasing volume of issued loans by **12%** within 1 month
 - Developed backend data validation using Zod thereby enhancing application **stability**
@@ -54,7 +52,7 @@ SCSS, HTML, Lighthouse, Git, Figma, ESLint, Prettier, Sentry.
 
 #### Technologies: React, TypeScript, Redux, Redux Thunk, WebSocket, Jest, Zod, React Hook Form, styled-components, Husky
 
-> ### VIMPELCOM: 05/2020 – 09/2021, 1.4 YEARS
+> ### [MEGACOM](https://mega24.kg/): 05/2020 – 09/2021, 1.4 YEARS
 
 - Developed several features for issue reporting and communication with support decreasing average hotline load by **7%**
 - Migrated from Webpack 4 to Webpack 5 resulting in decreasing build time and bundle size by about **25%**
@@ -63,9 +61,9 @@ SCSS, HTML, Lighthouse, Git, Figma, ESLint, Prettier, Sentry.
 
 #### Technologies: React, TypeScript, Webpack, TanStack Query, React Router, SCSS, Lighthouse
 
-> ### ROSTELECOM: 04/2019 – 05/2020, 1.3 YEARS
+> ### [KCELL](https://www.kcell.kz/): 04/2019 – 05/2020, 1.3 YEARS
 
-> ### SKYTRACK: 02/2017 – 04/2019, 2.2 YEARS
+> ### [SKYTRACK](https://skytracking.ru/): 02/2017 – 04/2019, 2.2 YEARS
 
 ---
 
